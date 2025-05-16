@@ -1,5 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
+# Name: K Charan Teja
+# Registered No: 212224040163
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
